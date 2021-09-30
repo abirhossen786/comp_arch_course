@@ -1,0 +1,8 @@
+C:/com_arch/project1/add_sub_4b.sv {1 {vlog -work work -sv -stats=none C:/com_arch/project1/add_sub_4b.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module add_sub_4b
+
+Top level modules:
+	add_sub_4b
+
+} {} {}}
